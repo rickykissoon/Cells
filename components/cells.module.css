@@ -1,0 +1,28 @@
+.cellStyle {
+	height: 50px;
+	width: 50px;
+	border: 1px solid black;
+	margin: 5px;
+	text-align: center;
+	cursor: pointer;
+}
+
+.cellDefault {
+	background: white;
+}
+
+.cellRed {
+	background: red;
+}
+
+.cellBlue {
+	background: blue;
+}
+
+.cellGreen {
+	background: green;
+}
+
+.circle {
+	border-radius: 50%;
+}
